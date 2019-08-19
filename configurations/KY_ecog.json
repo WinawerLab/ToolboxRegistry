@@ -47,7 +47,7 @@
 		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "local",
+		"type": "git",
 		"update": "",
 		"url": "https://github.com/KenYMB/ky_utils"
 	}
