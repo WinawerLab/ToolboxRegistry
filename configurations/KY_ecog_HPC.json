@@ -1,0 +1,80 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ecogBasicCode",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/dorahermes/ecogBasicCode"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knkUtils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/kendrickkay/knkutils"
+	},
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Fieldtrip",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/fieldtrip/fieldtrip.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "gammaModel",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/gammaModel"
+	},
+	{
+		"flavor": "",
+		"hook": "SetupKyUtils",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ky_utils",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/ky_utils"
+	}
+]
