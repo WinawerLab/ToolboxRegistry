@@ -8,9 +8,22 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "include",
+		"type": "local",
 		"update": "",
-		"url": ""
+		"url": "~/matlab/toolboxes/ECoG_utils"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "analyzePRF",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": ~/matlab/toolboxes/analyzePRF"
 	},
 	{
 		"flavor": "",
@@ -21,9 +34,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "local",
 		"update": "",
-		"url": "https://github.com/dorahermes/ecogBasicCode"
+		"url": "~/matlab/toolboxes/ecogBasicCode"
 	},
 	{
 		"flavor": "",
@@ -34,9 +47,9 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "local",
 		"update": "",
-		"url": "https://github.com/kendrickkay/knkutils"
+		"url": "~/matlab/toolboxes/knkutils"
 	},
 	{
 		"flavor": "",
@@ -47,9 +60,9 @@
 		"pathPlacement": "appendrootonly",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
+		"type": "local",
 		"update": "",
-		"url": "https://github.com/fieldtrip/fieldtrip.git"
+		"url": "~/matlab/toolboxes/fieldtrip"
 	},
 	{
 		"flavor": "",
