@@ -22,5 +22,18 @@
 		"toolboxRoot": "",
 		"type": "include",
 		"update": ""	
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "rgcDisplacementMap",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/gkaguirrelab/rgcDisplacementMap"
 	}	
 ]
