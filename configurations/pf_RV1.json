@@ -32,8 +32,7 @@
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
-		"type": "git",
-		"update": "",
-		"url": "https://github.com/gkaguirrelab/rgcDisplacementMap"
+		"type": "include",
+		"update": ""
 	}	
 ]
