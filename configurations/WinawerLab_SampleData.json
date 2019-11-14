@@ -37,5 +37,16 @@
     "type": "include",
     "update": "",
     "url": ""
+},
+{
+    "flavor": "",
+    "hook": "",
+    "name": "SampleData",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/WinawerLab/SampleData"
 }
 ]
