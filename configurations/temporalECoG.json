@@ -12,6 +12,19 @@
 		"update": "",
 		"url": "https://github.com/irisgroen/temporalECoG"
 	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "TemporalChannels",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/VPNL/TemporalChannels.git"
+	},
 	{	
 		"flavor": "",
 		"hook": "",
