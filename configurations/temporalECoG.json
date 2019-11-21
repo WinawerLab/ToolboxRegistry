@@ -12,6 +12,19 @@
 		"update": "",
 		"url": "https://github.com/irisgroen/temporalECoG"
 	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "TemporalChannels",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/VPNL/TemporalChannels.git"
+	},
 	{	
 		"flavor": "",
 		"hook": "",
@@ -30,25 +43,12 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "meg_utils",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": "",
-		"url": ""
-	},
-	{	
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "paper_2018_temporalDynamics",
+		"name": "bads",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
-		"url": "https://github.com/jingyang-zhou/paper_2018_temporalDynamics"
+		"url": "https://github.com/lacerbi/bads"
 	}
 ]
