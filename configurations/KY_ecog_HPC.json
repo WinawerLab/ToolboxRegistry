@@ -23,7 +23,7 @@
 		"toolboxRoot": "",
 		"type": "local",
 		"update": "",
-		"url": ~/matlab/toolboxes/analyzePRF"
+		"url": "~/matlab/toolboxes/analyzePRF"
 	},
 	{
 		"flavor": "",
