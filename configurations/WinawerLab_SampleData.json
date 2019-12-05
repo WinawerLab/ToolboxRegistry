@@ -18,7 +18,7 @@
     "hook": "",
     "importance": "",
     "localHookTemplate": "",
-    "name": "Matlab",
+    "name": "FreesurferMatlab",
     "pathPlacement": "append",
     "requirementHook": "",
     "subfolder": "",
