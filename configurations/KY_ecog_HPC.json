@@ -1,0 +1,93 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/ECoG_utils"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "analyzePRFKay",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/analyzePRF"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ecogBasicCode",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/ecogBasicCode"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knkUtils",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/knkutils"
+	},
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Fieldtrip",
+		"pathPlacement": "prependrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/fieldtrip"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "gammaModel",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/gammaModel"
+	},
+	{
+		"flavor": "",
+		"hook": "SetupKyUtils",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ky_utils",
+		"pathPlacement": "prependrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": "~/matlab/toolboxes/ky_utils"
+	}
+]

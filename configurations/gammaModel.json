@@ -1,0 +1,54 @@
+[
+	{
+		"flavor": "",
+		"hook": "gammaModelCodePath",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "gammaModel",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/winawerlab/gammaModel.git"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ecogBasicCode",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/dorahermes/ecogBasicCode"
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "knkUtils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/kendrickkay/knkutils"
+	},
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Fieldtrip",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/fieldtrip/fieldtrip.git"
+	}
+]
