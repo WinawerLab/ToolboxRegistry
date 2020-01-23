@@ -13,19 +13,15 @@
     "url": ""
 },
 {
-    "extra": "",
     "flavor": "",
     "hook": "",
-    "importance": "",
-    "localHookTemplate": "",
     "name": "FreesurferMatlab",
     "pathPlacement": "append",
-    "requirementHook": "",
     "subfolder": "",
     "toolboxRoot": "",
-    "type": "local",
+    "type": "include",
     "update": "",
-    "url": "file:\/\/\/Applications\/freesurfer\/matlab\/"
+    "url": ""
 },
 {
     "flavor": "",

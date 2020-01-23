@@ -26,25 +26,23 @@
 	{
 		"flavor": "",
 		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "RemoteDataToolbox",
+		"name": "jsonlab",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "include",
 		"update": "",
 		"url": ""
-	},
+	}
 	{
-	"flavor": "",
-	"hook": "",
-	"name": "jsonlab",
-	"pathPlacement": "append",
-	"subfolder": "",
-	"toolboxRoot": "",
-	"type": "include",
-	"update": "",
-	"url": ""
+		"flavor": "",
+		"hook": "",
+		"name": "FreesurferMatlab",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
 	}
 ]
