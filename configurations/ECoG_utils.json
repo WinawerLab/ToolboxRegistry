@@ -70,7 +70,7 @@
 		"importance": "",
 		"localHookTemplate": "",
 		"name": "analyzePRFKay",
-		"pathPlacement": "append",
+		"pathPlacement": "prepend",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
