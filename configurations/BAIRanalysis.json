@@ -43,18 +43,6 @@
         "hook": "",
         "importance": "",
         "localHookTemplate": "",
-        "name": "vistasoft",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "include",
-        "update": "",
-        "url": ""
-    },
-    {
-        "flavor": "",
-        "hook": "",
-        "importance": "",
-        "localHookTemplate": "",
         "name": "meg_utils",
         "pathPlacement": "append",
         "subfolder": "",
@@ -64,15 +52,16 @@
         "url": "https://github.com/winawerlab/meg_utils.git"
     },
     {
-        "flavor": "",
-        "hook": "",
-        "importance": "",
-        "localHookTemplate": "",
-        "name": "Fieldtrip",
-        "subfolder": "",
-        "toolboxRoot": "",
-        "type": "include",
-        "update": "",
-        "url": ""
-    }
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	}
 ]
