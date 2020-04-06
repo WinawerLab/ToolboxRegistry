@@ -2,7 +2,7 @@
     {
         "extra": "",
         "flavor": "",
-        "hook": "",
+        "hook": "addpath(fullfile(getenv('FREESURFER_HOME'), 'matlab'));",
         "importance": "",
         "localHookTemplate": "",
         "name": "FreesurferMatlab",
@@ -11,13 +11,12 @@
         "subfolder": "",
         "toolboxRoot": "",
         "type": "local",
-        "update": "",
-        "url": "file:\/\/\/Applications\/freesurfer\/matlab\/"
+        "update": ""
     },
     {
         "extra": "",
         "flavor": "",
-        "hook": "",
+        "hook": "addpath(fullfile(getenv('FREESURFER_HOME'), 'fsfast', 'toolbox'));",
         "importance": "",
         "localHookTemplate": "",
         "name": "FreesurferFsfastMatlab",
@@ -26,7 +25,6 @@
         "subfolder": "",
         "toolboxRoot": "",
         "type": "local",
-        "update": "",
-        "url": "file:\/\/\/Applications\/freesurfer\/fsfast\/toolbox\/"
-    }
+        "update": ""
+     }
 ]
