@@ -1,0 +1,48 @@
+[
+  {
+    "flavor" : "",
+    "hook" : "",
+    "importance" : "",
+    "localHookTemplate" : "",
+    "name" : "mri_tools",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "[getenv('FREESURFER_HOME') filesep 'matlab']",
+    "name" : "FreesurferMatlab",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "",
+    "name" : "spm12",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "",
+    "name" : "jsonlab",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  }
+]
