@@ -2,13 +2,14 @@
 	{
 		"flavor": "",
 		"hook": "",
+		"importance": "",
 		"localHookTemplate": "",
-		"name": "matlabPyrTools",
+		"name": "MatlabPyrTools",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
-		"update": "",
-		"url": "https://github.com/WinawerLab/matlabPyrTools.git"
+		"update": "never",
+		"url": "https://github.com/LabForComputationalVision/matlabPyrTools.git"
 	}
 ]
