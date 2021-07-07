@@ -13,18 +13,41 @@
 		"url": "https://github.com/WinawerLab/megRetinotopy.git",
 		"flavor": ""
 	},
-	{
-		"flavor": "",
-		"hook": "",
-		"importance": "",
-		"localHookTemplate": "",
-		"name": "vistasoft",
-		"pathPlacement": "append",
-		"subfolder": "",
-		"toolboxRoot": "",
-		"type": "include",
-		"update": ""
-	},
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "vistasoft",
+        "pathPlacement": "prepend",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https://github.com/vistalab/vistasoft.git"
+    },
+    {
+        "flavor": "",
+        "hook": "",
+        "name": "jsonlab",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+    },
+    {
+        "flavor": "",
+        "hook": "",
+        "name": "FreesurferMatlab",
+        "pathPlacement": "append",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "include",
+        "update": "",
+        "url": ""
+    },
 	{
 		"flavor": "",
 		"hook": "",
