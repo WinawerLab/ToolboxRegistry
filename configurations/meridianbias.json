@@ -1,0 +1,60 @@
+[
+  {
+    "flavor" : "",
+    "hook" : "",
+    "importance" : "",
+    "localHookTemplate" : "",
+    "name" : "mri_tools",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "[getenv('FREESURFER_HOME') filesep 'matlab']",
+    "name" : "FreesurferMatlab",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "type_copy" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "",
+    "name" : "",
+    "pathPlacement" : "",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "",
+    "name" : "knkutils",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  },
+  {
+    "flavor" : "",
+    "hook" : "",
+    "name" : "cvncode",
+    "pathPlacement" : "append",
+    "subfolder" : "",
+    "toolboxRoot" : "",
+    "type" : "include",
+    "update" : "",
+    "url" : ""
+  }
+]
