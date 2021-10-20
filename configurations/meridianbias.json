@@ -14,17 +14,6 @@
   {
     "flavor" : "",
     "hook" : "",
-    "name" : "",
-    "pathPlacement" : "",
-    "subfolder" : "",
-    "toolboxRoot" : "",
-    "type" : "",
-    "update" : "",
-    "url" : ""
-  },
-  {
-    "flavor" : "",
-    "hook" : "",
     "name" : "knkutils",
     "pathPlacement" : "append",
     "subfolder" : "",
