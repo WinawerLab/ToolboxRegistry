@@ -4,7 +4,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "ECoG_alpha",
+		"name": "ECoG_alphaPRF",
 		"pathPlacement": "prepend",
 		"subfolder": "functions",
 		"toolboxRoot": "",
