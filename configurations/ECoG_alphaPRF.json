@@ -6,7 +6,7 @@
 		"localHookTemplate": "",
 		"name": "ECoG_alphaPRF",
 		"pathPlacement": "prepend",
-		"subfolder": "functions",
+		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
 		"update": "",
