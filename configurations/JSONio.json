@@ -1,9 +1,10 @@
 [
 	{
-		"flavor": "",
+		"flavor": "main",
 		"hook": "",
 		"name": "JSONio",
 		"pathPlacement": "append",
+		"printLocalHookOutput": "",
 		"subfolder": "",
 		"toolboxRoot": "",
 		"type": "git",
