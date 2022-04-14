@@ -1,0 +1,28 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils_private",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/winawerlab/ECoG_utils_private"
+	},
+	{
+		"flavor": "",
+		"hook": "ft_defaults",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "Fieldtrip",
+		"pathPlacement": "appendrootonly",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/fieldtrip/fieldtrip"
+	}
+]
