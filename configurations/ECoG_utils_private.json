@@ -14,6 +14,19 @@
 	},
 	{
 		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "git",
+		"update": "",
+		"url": "https://github.com/winawerlab/ECoG_utils"
+	},
+	{
+		"flavor": "",
 		"hook": "ft_defaults",
 		"importance": "",
 		"localHookTemplate": "",
