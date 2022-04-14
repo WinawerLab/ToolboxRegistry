@@ -17,7 +17,7 @@
 		"hook": "",
 		"importance": "",
 		"localHookTemplate": "",
-		"name": "ECoG_utils",
+		"name": "ECoG_utils_private",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
