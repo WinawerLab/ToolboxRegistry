@@ -1,0 +1,41 @@
+[
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_resps",
+		"pathPlacement": "prepend",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "local",
+		"update": "",
+		"url": ""
+	},
+	{
+		"flavor": "",
+		"hook": "",
+		"importance": "",
+		"localHookTemplate": "",
+		"name": "ECoG_utils",
+		"pathPlacement": "append",
+		"subfolder": "",
+		"toolboxRoot": "",
+		"type": "include",
+		"update": "",
+		"url": ""
+	},
+    {
+        "flavor": "",
+        "hook": "",
+        "importance": "",
+        "localHookTemplate": "",
+        "name": "analyzePRF",
+        "pathPlacement": "prepend",
+        "subfolder": "",
+        "toolboxRoot": "",
+        "type": "git",
+        "update": "",
+        "url": "https://github.com/kendrickkay/analyzePRF.git"
+    }
+]
