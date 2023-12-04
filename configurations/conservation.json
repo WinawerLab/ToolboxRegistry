@@ -3,7 +3,7 @@
 		"flavor": "",
 		"hook": "",
 		"localHookTemplate": "",
-		"name": "conservation",
+		"name": "crowdingConservation",
 		"pathPlacement": "append",
 		"subfolder": "",
 		"toolboxRoot": "",
