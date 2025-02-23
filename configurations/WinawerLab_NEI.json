@@ -35,6 +35,17 @@
 {
     "flavor": "",
     "hook": "",
+    "name": "fracridge",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/nrdg/fracridge"
+},
+{
+    "flavor": "",
+    "hook": "",
     "name": "jsonlab",
     "pathPlacement": "append",
     "subfolder": "",
