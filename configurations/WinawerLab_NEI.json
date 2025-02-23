@@ -1,0 +1,57 @@
+[
+{
+    "flavor": "",
+    "hook": "",
+    "name": "MRI_tools",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/WinawerLab/MRI_tools"
+},
+{
+    "flavor": "",
+    "hook": "",
+    "name": "FreesurferMatlab",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "include",
+    "update": "",
+    "url": ""
+},
+{
+    "flavor": "",
+    "hook": "",
+    "name": "GLMsingle",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "include",
+    "update": "",
+    "url": ""
+},
+{
+    "flavor": "",
+    "hook": "",
+    "name": "jsonlab",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "include",
+    "update": "",
+    "url": ""
+},
+{
+    "flavor": "",
+    "hook": "",
+    "name": "cvncode",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/cvnlab/cvncode"
+}
+]
