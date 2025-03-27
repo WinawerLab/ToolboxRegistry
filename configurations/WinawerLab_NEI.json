@@ -77,5 +77,18 @@
     "type": "git",
     "update": "",
     "url": "https://github.com/vistalab/vistasoft.git"
+},
+{
+    "flavor": "",
+    "hook": "",
+    "importance": "",
+    "localHookTemplate": "",
+    "name": "atlasmgz",
+    "pathPlacement": "append",
+    "subfolder": "",
+    "toolboxRoot": "",
+    "type": "git",
+    "update": "",
+    "url": "https://github.com/WinawerLab/atlasmgz"
 }
 ]
