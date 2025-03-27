@@ -71,12 +71,12 @@
     "importance": "",
     "localHookTemplate": "",
     "name": "vistasoft",
-    "pathPlacement": "prepend",
+    "pathPlacement": "append",
     "subfolder": "",
     "toolboxRoot": "",
     "type": "git",
     "update": "",
-    "url": "https://github.com/vistalab/vistasoft.git"
+    "url": "https://github.com/vistalab/vistasoft"
 },
 {
     "flavor": "",
