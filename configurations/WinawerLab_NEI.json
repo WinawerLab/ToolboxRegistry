@@ -90,18 +90,5 @@
     "type": "git",
     "update": "",
     "url": "https://github.com/WinawerLab/atlasmgz"
-},
-{
-    "flavor": "",
-    "hook": "",
-    "importance": "",
-    "localHookTemplate": "",
-    "name": "prfVista",
-    "pathPlacement": "append",
-    "subfolder": "",
-    "toolboxRoot": "",
-    "type": "git",
-    "update": "",
-    "url": "https://github.com/WinawerLab/prfVista"
 }
 ]
